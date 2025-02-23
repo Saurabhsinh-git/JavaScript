@@ -5,7 +5,7 @@ const repoCount = 50
 
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
-const gameName = new String('saurabhsinh-hc-com')
+const gameName = new String('saurabhsinh-srz-com')
 
 // console.log(gameName[0]);
 // console.log(gameName.__proto__);
@@ -30,6 +30,7 @@ const url = "https://saurabhsinh.com/saurabhsinh%20zala"
 
 console.log(url.replace('%20', '-'))
 
-console.log(url.includes('sundar'))
+console.log(url.includes('saurabhsinh'))
+console.log(url.includes('aezakmi'))
 
 console.log(gameName.split('-'));
